@@ -1,0 +1,5 @@
+.users{
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "cover": "https://i.ibb.co.com/zT00MRSc/1.jpg",
+    "title": "The Future of AI: Trends and Challenges",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/JwvKZVw2/boy2.jpg",
+    "posted_date": "2025-03-20",
+    "reading_time": 5,
+    "hashtags": ["AI", "MachineLearning", "TechTrends"]
+  },
+  {
+    "id": 102,
+    "cover": "https://i.ibb.co.com/d4MYYzw9/2.png",
+    "title": "Mastering JavaScript: Tips and Tricks",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/fY6sqLtV/girl1.jpg",
+    "posted_date": "2025-03-18",
+    "reading_time": 7,
+    "hashtags": ["JavaScript", "WebDevelopment", "Coding"]
+  },
+  {
+    "id": 103,
+    "cover": "https://i.ibb.co.com/FLB0zSky/3.png",
+    "title": "Cybersecurity in 2025: What You Need to Know",
+    "author": "Alice Brown",
+    "author_img": "https://i.ibb.co.com/8Lb0k7R7/girl2.jpg",
+    "posted_date": "2025-03-22",
+    "reading_time": 6,
+    "hashtags": ["Cybersecurity", "EthicalHacking", "Privacy"]
+  },
+  {
+    "id": 104,
+    "cover": "https://i.ibb.co.com/j9n8H7d9/4.jpg",
+    "title": "Building a Scalable Backend with Node.js",
+    "author": "Michael Lee",
+    "author_img": "https://i.ibb.co.com/JwvKZVw2/boy2.jpg",
+    "posted_date": "2025-03-15",
+    "reading_time": 8,
+    "hashtags": ["NodeJS", "BackendDevelopment", "Scalability"]
+  }
+]

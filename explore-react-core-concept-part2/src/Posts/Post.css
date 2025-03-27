@@ -1,0 +1,7 @@
+.post{
+    border: 2px dotted magenta;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+}

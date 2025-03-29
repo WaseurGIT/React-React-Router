@@ -1,0 +1,206 @@
+[
+  {
+    "product_id": 101,
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/Hfh7TdQz/img1.jpg",
+    "category": "Laptop",
+    "price": 1599.99,
+    "description": "A high-performance laptop with a stunning 15.6-inch 4K display.",
+    "Specification": [
+      "Intel Core i7-12700H",
+      "16GB DDR5 RAM",
+      "512GB SSD",
+      "NVIDIA RTX 3050 Ti",
+      "15.6-inch 4K UHD+ Touch Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 102,
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/wFRfTMHT/img2.jpg",
+    "category": "MacBook",
+    "price": 1299.99,
+    "description": "Lightweight and powerful, featuring Apple's M2 chip for superior performance.",
+    "Specification": [
+      "Apple M2 chip",
+      "8GB Unified RAM",
+      "256GB SSD",
+      "13.6-inch Liquid Retina Display",
+      "MagSafe 3 charging"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 103,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/Jw9w6FYy/img3.jpg",
+    "category": "Mobile",
+    "price": 1199.99,
+    "description": "A flagship Android phone with an amazing camera and S Pen support.",
+    "Specification": [
+      "Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "512GB Storage",
+      "200MP Quad Camera",
+      "6.8-inch Dynamic AMOLED 2X"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 104,
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/MDK4BxNJ/img4.jpg",
+    "category": "iPhone",
+    "price": 1499.99,
+    "description": "Apple's most powerful iPhone with a titanium frame and A17 Pro chip.",
+    "Specification": [
+      "A17 Pro Chip",
+      "6.7-inch Super Retina XDR Display",
+      "48MP Main Camera",
+      "256GB Storage",
+      "iOS 17"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 105,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/tw0VPf7D/img5.jpg",
+    "category": "Smart Watch",
+    "price": 349.99,
+    "description": "A premium smartwatch with advanced health tracking features.",
+    "Specification": [
+      "1.5-inch AMOLED Display",
+      "Samsung BioActive Sensor",
+      "GPS + LTE",
+      "Water-resistant",
+      "Up to 40 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 106,
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://i.ibb.co.com/wZsT7Yf6/img6.jpg",
+    "category": "Accessories",
+    "price": 399.99,
+    "description": "Industry-leading noise-canceling headphones with crystal-clear sound.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "40mm drivers",
+      "Up to 30 hours battery life",
+      "Bluetooth 5.2",
+      "Multipoint connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 107,
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "product_image": "https://i.ibb.co.com/HLJMLSMS/img7.jpg",
+    "category": "Laptop",
+    "price": 1799.99,
+    "description": "An ultra-lightweight business laptop with high durability and performance.",
+    "Specification": [
+      "Intel Core i7-1365U",
+      "16GB LPDDR5 RAM",
+      "1TB SSD",
+      "14-inch 2.8K OLED Display",
+      "Fingerprint Reader"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 108,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/zhbTZc6q/img8.jpg",
+    "category": "Smart Watch",
+    "price": 429.99,
+    "description": "Apple’s latest smartwatch with improved performance and health-tracking.",
+    "Specification": [
+      "Always-On Retina Display",
+      "Blood Oxygen & ECG App",
+      "GPS + Cellular",
+      "Water-resistant",
+      "Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 109,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/tTC70CjK/img9.jpg",
+    "category": "Mobile",
+    "price": 999.99,
+    "description": "Google's flagship smartphone with AI-powered camera features.",
+    "Specification": [
+      "Google Tensor G3 Processor",
+      "12GB RAM",
+      "256GB Storage",
+      "50MP Triple Camera",
+      "6.7-inch LTPO OLED Display"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 110,
+    "product_title": "Apple MacBook Pro 16-inch M3 Max",
+    "product_image": "https://i.ibb.co.com/jvKZ0CB4/img10.jpg",
+    "category": "MacBook",
+    "price": 3499.99,
+    "description": "A high-end MacBook Pro with M3 Max chip for professional workloads.",
+    "Specification": [
+      "Apple M3 Max Chip",
+      "32GB Unified RAM",
+      "1TB SSD",
+      "16.2-inch Liquid Retina XDR Display",
+      "Battery Life up to 22 hours"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 111,
+    "product_title": "OnePlus Buds Pro 2",
+    "product_image": "https://i.ibb.co.com/ymtD4X1j/img11.jpg",
+    "category": "Accessories",
+    "price": 179.99,
+    "description": "Premium wireless earbuds with adaptive noise cancellation.",
+    "Specification": [
+      "11mm Dynamic Drivers",
+      "ANC (Active Noise Cancellation)",
+      "Bluetooth 5.3",
+      "Wireless Charging",
+      "Up to 39 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 112,
+    "product_title": "Samsung Galaxy Tab S9 Ultra",
+    "product_image": "https://i.ibb.co.com/84TQW5ys/img12.jpg",
+    "category": "Tablet",
+    "price": 1299.99,
+    "description": "A high-end Android tablet with an immersive 14.6-inch AMOLED display.",
+    "Specification": [
+      "Snapdragon 8 Gen 2",
+      "14.6-inch Dynamic AMOLED 2X",
+      "12GB RAM",
+      "512GB Storage",
+      "S Pen Included"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]

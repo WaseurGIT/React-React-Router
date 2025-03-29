@@ -36,7 +36,7 @@ const addToLsWish = (id) => {
 
   wish.push(id);
   saveWishToLS(wish);
-};gi
+};
 
 const removeFromLS = (id) => {
   const cart = getStoredCart();
